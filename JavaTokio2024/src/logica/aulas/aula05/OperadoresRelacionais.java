@@ -1,4 +1,4 @@
-package logica.aula05;
+package logica.aulas.aula05;
 
 public class OperadoresRelacionais {
 public static void main(String[] args) {

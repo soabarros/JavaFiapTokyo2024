@@ -1,4 +1,4 @@
-package logia.aulas.aula04;
+package logica.aulas.aula04;
 
 public class PrimeiroPrograma {
 	public static void main(String[] args) {
