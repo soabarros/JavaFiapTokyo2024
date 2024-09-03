@@ -27,7 +27,7 @@ public class PrimeiroPrograma {
 		
 		System.out.println("Bem-vindo(a), " + nome + "! " +  idade + " anos");
 	
-		System.out.println(
+	
 		
 		
 		
