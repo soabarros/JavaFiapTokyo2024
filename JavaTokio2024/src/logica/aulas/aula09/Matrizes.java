@@ -23,18 +23,19 @@ public class Matrizes {public static void main(String[] args) {
 	int numero= 1 ;
 	System.out.println( );
 	for(int i = 0 ; i<linhas; i++) {
-		for(int j=0 ; j<colunas; j ++)
-	}
-	matriz[i][j]= numero ;
-	numero++;
-	
-	// FOR PARA EXIBIR MATRIZ
-	
-	for (int i = 0 ;i <linhas; i ++) {
-		for (int j = 0 ;j <colunas ; j++)
-		System.out.println(matriz [i][j]+ "/t");
-		
-	}
+		for(int j=0 ; j<colunas; j ++) {
 	
 
-}}
+	matriz[i][j]= numero ;
+	numero++;
+		}
+	}
+	// FOR PARA EXIBIR MATRIZ
+	
+	for (int k = 0 ;k <linhas; k ++) {
+		for (int j = 0 ;j <colunas ; j++)
+		System.out.println(matriz [k][j]+ "/t");
+		
+	}
+}
+}
