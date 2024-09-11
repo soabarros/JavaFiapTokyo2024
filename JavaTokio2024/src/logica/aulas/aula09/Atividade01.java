@@ -1,6 +1,6 @@
 package logica.aulas.aula09;
 
-import java.util.Scanner;s
+import java.util.Scanner;
 
 public class Atividade01 {public static void main(String[] args) {
 	Scanner sc =new Scanner(System.in);
